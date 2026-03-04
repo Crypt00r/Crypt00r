@@ -1,16 +1,19 @@
-## Hi there 👋
+# Ygor Costa
 
-<!--
-**Crypt00r/Crypt00r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Offensive Security | Web Application Security | Active Directory | OSINT
 
-Here are some ideas to get you started:
+Security-focused professional with hands-on experience in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web Application Pentesting
+- Attack Path Modeling
+- JWT Security Analysis
+- OSINT & Fraud Infrastructure Investigation
+- Active Directory Privilege Escalation Simulation
+- Structured Security Reporting
+
+Portfolio:
+[Link para OFFENSIVE-SECURITY-PORTFOLIO]
+
+Focused on realistic attacker modeling, business risk communication, and structured remediation planning.
+
+Open to remote opportunities in Offensive Security and Red Team engagements.
