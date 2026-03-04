@@ -12,7 +12,7 @@ Security-focused professional with hands-on experience in:
 - Structured Security Reporting
 
 Portfolio:
-[Link para OFFENSIVE-SECURITY-PORTFOLIO]
+[[OFFENSIVE-SECURITY-PORTFOLIO](https://github.com/Crypt00r/offensive-security-portfolio)]
 
 Focused on realistic attacker modeling, business risk communication, and structured remediation planning.
 
