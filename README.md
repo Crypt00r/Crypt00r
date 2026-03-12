@@ -14,6 +14,9 @@ Security-focused professional with hands-on experience in:
 Portfolio:
 [[OFFENSIVE-SECURITY-PORTFOLIO](https://github.com/Crypt00r/offensive-security-portfolio)]
 
+WebSite:
+[[WEBSITE](https://ygorsec.github.io/)]
+
 Focused on realistic attacker modeling, business risk communication, and structured remediation planning.
 
 Open to remote opportunities in Offensive Security and Red Team engagements.
